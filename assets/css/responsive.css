@@ -1,0 +1,34 @@
+@media(max-width:767px){
+    .heading-lg {
+        font-size: 35px;
+        line-height: 40px;
+    
+    }
+    .course-video-div iframe {
+        height: 400px;
+    }
+    .course-video-div{
+        min-height: 400px;
+    }
+    .hero-section {
+        padding: 25px 15px;
+    }
+}
+@media(max-width:567px){
+    .heading-lg {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .hero-section .sec-box {
+        gap: 25px;
+    }
+    .top-bar {
+        padding: 10px 15px;
+    }
+    .course-video-div iframe {
+        height:350px;
+    }
+    .course-video-div{
+        min-height: 350px;
+    }
+}
